@@ -1,0 +1,9 @@
+repo : https://github.com/lewisdonovan/google-news-scraper
+
+# Install via NPM
+npm install google-news-scraper
+
+# Install via Yarn
+yarn add google-news-scraper
+
+

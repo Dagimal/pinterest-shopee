@@ -18,7 +18,7 @@ setup_args = dict(
     download_url='https://pypi.org/project/simple_image_download/'
 )
 
-install_requires = ['requests','python-magic-bin==0.4.14','progressbar']
+install_requires = ['requests','progressbar']
 
 if __name__ == '__main__':
     setup(**setup_args, install_requires=install_requires)
